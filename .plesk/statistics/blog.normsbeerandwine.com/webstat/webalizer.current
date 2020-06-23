@@ -1,0 +1,276 @@
+# Webalizer V2.01-10 Incremental Data - 04/24/2020 07:18:49
+2020 4 24 7 18 49
+5 3 3 1 2 2 18036 3 3 0
+1 2 2 9 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 2092 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 7972 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 7972 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 7972 1
+2 1 7972 1
+0 0 0 0
+0 0 0 0
+1 1 2092 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 3 0 15126 3 0
+# End Of Table - urls
+# -sites- (monthly)
+46.246.65.133
+0 1 1 2092 1 1586431976
+/
+ec2-3-249-97-229.eu-west-1.compute.amazonaws.com
+0 2 1 7972 1 1587712729
+/
+ec2-3-249-18-246.eu-west-1.compute.amazonaws.com
+0 2 1 7972 1 1587112112
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-3-249-97-229.eu-west-1.compute.amazonaws.com
+0 2 1 7972 1 1587712729
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 4
+http://normsbeerandwine.com/
+0 1
+# End Of Table - referrers
+# -agents- 
+PleskBot
+0 4
+Mozilla/5.0+(Windows+NT+5.0;+rv:52.59.06)+Gecko/20147453+Firefox/52.59.06
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+# -Error404- 
+/test/wp-admin/setup-config.php,-
+1
+/store/wp-includes/wlwmanifest.xml,-
+1
+/2018/wp-includes/wlwmanifest.xml,-
+1
+/wordpress/wp-includes/wlwmanifest.xml,-
+1
+/blogs/wp-includes/wlwmanifest.xml,-
+1
+/2019/wp-includes/wlwmanifest.xml,-
+1
+/backup/wp-includes/wlwmanifest.xml,-
+1
+/dev/wp-includes/wlwmanifest.xml,-
+1
+/feed/,-
+1
+/demo/wp-includes/wlwmanifest.xml,-
+2
+/en/wp-includes/wlwmanifest.xml,-
+1
+/main/wp-admin/setup-config.php,-
+1
+/blogs/wp-login.php,-
+2
+/new/wp-includes/wlwmanifest.xml,-
+1
+/wp-admin/,-
+2
+/site/wp-admin/setup-config.php,-
+1
+/newsite/wp-includes/wlwmanifest.xml,-
+1
+/news/wp-includes/wlwmanifest.xml,-
+1
+/blogs/wp-admin/setup-config.php,-
+1
+/wp/wp-admin/setup-config.php,-
+1
+/new/wp-admin/setup-config.php,-
+1
+/wp2/wp-includes/wlwmanifest.xml,-
+2
+/cms/wp-admin/setup-config.php,-
+1
+/blog/wp-includes/wlwmanifest.xml,-
+1
+/shop/wp-includes/wlwmanifest.xml,-
+2
+/www/wp-includes/wlwmanifest.xml,-
+2
+/cms/wp-includes/wlwmanifest.xml,-
+1
+/robots.txt,-
+2
+/blog/wp-login.php,-
+3
+/news/wp-admin/setup-config.php,-
+1
+/home/wp-admin/setup-config.php,-
+1
+/site/wp-includes/wlwmanifest.xml,-
+1
+/test/wp-includes/wlwmanifest.xml,-
+1
+/blog/wp-admin/setup-config.php,-
+1
+/wordpress/wp-admin/setup-config.php,-
+1
+/main/wp-login.php,-
+3
+/web/wp-login.php,-
+2
+/beta/wp-includes/wlwmanifest.xml,-
+1
+/1/wp-includes/wlwmanifest.xml,-
+1
+/home/wp-login.php,-
+2
+/new/wp-login.php,-
+3
+/oldsite/wp-includes/wlwmanifest.xml,-
+1
+/license.txt,-
+1
+/site/wp-login.php,-
+2
+/feed,-
+1
+/cms/wp-login.php,-
+2
+/wp-includes/wlwmanifest.xml,-
+2
+/web/wp-admin/setup-config.php,-
+1
+/portal/wp-includes/wlwmanifest.xml,-
+1
+/staging/wp-includes/wlwmanifest.xml,-
+1
+/wordpress/wp-login.php,-
+6
+/.git/,http://blog.normsbeerandwine.com/.git/
+1
+/main/wp-includes/wlwmanifest.xml,-
+1
+/images/show.asp,-
+3
+/website/wp-includes/wlwmanifest.xml,-
+1
+/wp-admin/setup-config.php,-
+1
+/webstat/conn.asp,-
+3
+/home/wp-includes/wlwmanifest.xml,-
+1
+/wp/wp-includes/wlwmanifest.xml,-
+1
+/administrator/,http://blog.normsbeerandwine.com/administrator/
+2
+/v1/wp-includes/wlwmanifest.xml,-
+1
+/wp/wp-login.php,-
+4
+/old/wp-includes/wlwmanifest.xml,-
+2
+/en/wp-login.php,-
+3
+/v2/wp-includes/wlwmanifest.xml,-
+1
+/wp-login.php,-
+49
+/en/wp-admin/setup-config.php,-
+1
+/news/wp-login.php,-
+3
+/test/wp-login.php,-
+2
+# End Of Table - Error404-

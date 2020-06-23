@@ -1,0 +1,137 @@
+# Webalizer V2.01-10 Incremental Data - 04/24/2020 08:34:38
+2020 4 24 8 34 38
+4 2 2 1 1 1 13724 2 2 0
+1 5 5 17 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 6862 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 6862 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 2 13724 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 2 0 10814 2 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-3-249-97-229.eu-west-1.compute.amazonaws.com
+0 2 1 6862 1 1587717278
+/
+ec2-3-249-18-246.eu-west-1.compute.amazonaws.com
+0 2 1 6862 1 1587110941
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-3-249-97-229.eu-west-1.compute.amazonaws.com
+0 2 1 6862 1 1587717278
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 4
+# End Of Table - referrers
+# -agents- 
+PleskBot
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+# -Error404- 
+/robots.txt,-
+2
+/images/show.asp,-
+3
+/webstat/conn.asp,-
+3
+# End Of Table - Error404-
