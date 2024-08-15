@@ -1,0 +1,962 @@
+{
+  "Christian McCaffrey": {
+    "player_id": 30121,
+    "rank_ecr": "1",
+    "player_position_id": "RB",
+    "player_name": "Christian McCaffrey"
+  },
+  "Bijan Robinson": {
+    "player_id": 40055,
+    "rank_ecr": "2",
+    "player_position_id": "RB",
+    "player_name": "Bijan Robinson"
+  },
+  "Breece Hall": {
+    "player_id": 33991,
+    "rank_ecr": "3",
+    "player_position_id": "RB",
+    "player_name": "Breece Hall"
+  },
+  "Tyreek Hill": {
+    "player_id": 29399,
+    "rank_ecr": "4",
+    "player_position_id": "WR",
+    "player_name": "Tyreek Hill"
+  },
+  "CeeDee Lamb": {
+    "player_id": "32687",
+    "rank_ecr": "5",
+    "player_position_id": "WR",
+    "player_name": "CeeDee Lamb"
+  },
+  "Ja'Marr Chase": {
+    "player_id": 33393,
+    "rank_ecr": "6",
+    "player_position_id": "WR",
+    "player_name": "Ja'Marr Chase"
+  },
+  "Justin Jefferson": {
+    "player_id": 32692,
+    "rank_ecr": "7",
+    "player_position_id": "WR",
+    "player_name": "Justin Jefferson"
+  },
+  "Saquon Barkley": {
+    "player_id": 30972,
+    "rank_ecr": "8",
+    "player_position_id": "RB",
+    "player_name": "Saquon Barkley"
+  },
+  "A.J. Brown": {
+    "player_id": 31883,
+    "rank_ecr": "9",
+    "player_position_id": "WR",
+    "player_name": "A.J. Brown"
+  },
+  "Amon-Ra St. Brown": {
+    "player_id": 33500,
+    "rank_ecr": "10",
+    "player_position_id": "WR",
+    "player_name": "Amon-Ra St. Brown"
+  },
+  "Jonathan Taylor": {
+    "player_id": 32711,
+    "rank_ecr": "11",
+    "player_position_id": "RB",
+    "player_name": "Jonathan Taylor"
+  },
+  "Puka Nacua": {
+    "player_id": 40168,
+    "rank_ecr": "12",
+    "player_position_id": "WR",
+    "player_name": "Puka Nacua"
+  },
+  "Davante Adams": {
+    "player_id": 27581,
+    "rank_ecr": "13",
+    "player_position_id": "WR",
+    "player_name": "Davante Adams"
+  },
+  "Josh Jacobs": {
+    "player_id": 31856,
+    "rank_ecr": "14",
+    "player_position_id": "RB",
+    "player_name": "Josh Jacobs"
+  },
+  "Travis Etienne Jr.": {
+    "player_id": 33413,
+    "rank_ecr": "15",
+    "player_position_id": "RB",
+    "player_name": "Travis Etienne Jr."
+  },
+  "Jahmyr Gibbs": {
+    "player_id": 40059,
+    "rank_ecr": "16",
+    "player_position_id": "RB",
+    "player_name": "Jahmyr Gibbs"
+  },
+  "Joe Mixon": {
+    "player_id": 30161,
+    "rank_ecr": "17",
+    "player_position_id": "RB",
+    "player_name": "Joe Mixon"
+  },
+  "Stefon Diggs": {
+    "player_id": 28534,
+    "rank_ecr": "18",
+    "player_position_id": "WR",
+    "player_name": "Stefon Diggs"
+  },
+  "Brandon Aiyuk": {
+    "player_id": 32695,
+    "rank_ecr": "19",
+    "player_position_id": "WR",
+    "player_name": "Brandon Aiyuk"
+  },
+  "DJ Moore": {
+    "player_id": 30994,
+    "rank_ecr": "20",
+    "player_position_id": "WR",
+    "player_name": "DJ Moore"
+  },
+  "Nico Collins": {
+    "player_id": 33477,
+    "rank_ecr": "21",
+    "player_position_id": "WR",
+    "player_name": "Nico Collins"
+  },
+  "Kyren Williams": {
+    "player_id": 34120,
+    "rank_ecr": "22",
+    "player_position_id": "RB",
+    "player_name": "Kyren Williams"
+  },
+  "Alvin Kamara": {
+    "player_id": 30180,
+    "rank_ecr": "23",
+    "player_position_id": "RB",
+    "player_name": "Alvin Kamara"
+  },
+  "Derrick Henry": {
+    "player_id": 29279,
+    "rank_ecr": "24",
+    "player_position_id": "RB",
+    "player_name": "Derrick Henry"
+  },
+  "Rachaad White": {
+    "player_id": 34047,
+    "rank_ecr": "25",
+    "player_position_id": "RB",
+    "player_name": "Rachaad White"
+  },
+  "Michael Pittman Jr.": {
+    "player_id": 32704,
+    "rank_ecr": "26",
+    "player_position_id": "WR",
+    "player_name": "Michael Pittman Jr."
+  },
+  "Deebo Samuel Sr.": {
+    "player_id": 31868,
+    "rank_ecr": "27",
+    "player_position_id": "WR",
+    "player_name": "Deebo Samuel Sr."
+  },
+  "Garrett Wilson": {
+    "player_id": 33965,
+    "rank_ecr": "28",
+    "player_position_id": "WR",
+    "player_name": "Garrett Wilson"
+  },
+  "Chris Olave": {
+    "player_id": 33966,
+    "rank_ecr": "29",
+    "player_position_id": "WR",
+    "player_name": "Chris Olave"
+  },
+  "Mike Evans": {
+    "player_id": 27535,
+    "rank_ecr": "30",
+    "player_position_id": "WR",
+    "player_name": "Mike Evans"
+  },
+  "Keenan Allen": {
+    "player_id": 26699,
+    "rank_ecr": "31",
+    "player_position_id": "WR",
+    "player_name": "Keenan Allen"
+  },
+  "Cooper Kupp": {
+    "player_id": 30182,
+    "rank_ecr": "32",
+    "player_position_id": "WR",
+    "player_name": "Cooper Kupp"
+  },
+  "Isiah Pacheco": {
+    "player_id": 34207,
+    "rank_ecr": "33",
+    "player_position_id": "RB",
+    "player_name": "Isiah Pacheco"
+  },
+  "De'Von Achane": {
+    "player_id": 40118,
+    "rank_ecr": "34",
+    "player_position_id": "RB",
+    "player_name": "De'Von Achane"
+  },
+  "James Cook": {
+    "player_id": 34019,
+    "rank_ecr": "35",
+    "player_position_id": "RB",
+    "player_name": "James Cook"
+  },
+  "Aaron Jones": {
+    "player_id": 30295,
+    "rank_ecr": "36",
+    "player_position_id": "RB",
+    "player_name": "Aaron Jones"
+  },
+  "Drake London": {
+    "player_id": 33963,
+    "rank_ecr": "37",
+    "player_position_id": "WR",
+    "player_name": "Drake London"
+  },
+  "DK Metcalf": {
+    "player_id": 31896,
+    "rank_ecr": "38",
+    "player_position_id": "WR",
+    "player_name": "DK Metcalf"
+  },
+  "DeVonta Smith": {
+    "player_id": 33398,
+    "rank_ecr": "39",
+    "player_position_id": "WR",
+    "player_name": "DeVonta Smith"
+  },
+  "Travis Kelce": {
+    "player_id": 26686,
+    "rank_ecr": "40",
+    "player_position_id": "TE",
+    "player_name": "Travis Kelce"
+  },
+  "Mark Andrews": {
+    "player_id": 31056,
+    "rank_ecr": "41",
+    "player_position_id": "TE",
+    "player_name": "Mark Andrews"
+  },
+  "Sam LaPorta": {
+    "player_id": 40064,
+    "rank_ecr": "42",
+    "player_position_id": "TE",
+    "player_name": "Sam LaPorta"
+  },
+  "Josh Allen": {
+    "player_id": 30977,
+    "rank_ecr": "43",
+    "player_position_id": "QB",
+    "player_name": "Josh Allen"
+  },
+  "Kenneth Walker III": {
+    "player_id": 33996,
+    "rank_ecr": "44",
+    "player_position_id": "RB",
+    "player_name": "Kenneth Walker III"
+  },
+  "Christian Kirk": {
+    "player_id": 31017,
+    "rank_ecr": "45",
+    "player_position_id": "WR",
+    "player_name": "Christian Kirk"
+  },
+  "Jaylen Waddle": {
+    "player_id": 33394,
+    "rank_ecr": "46",
+    "player_position_id": "WR",
+    "player_name": "Jaylen Waddle"
+  },
+  "Marvin Harrison Jr.": {
+    "player_id": 40893,
+    "rank_ecr": "47",
+    "player_position_id": "WR",
+    "player_name": "Marvin Harrison Jr."
+  },
+  "Zay Flowers": {
+    "player_id": 40039,
+    "rank_ecr": "48",
+    "player_position_id": "WR",
+    "player_name": "Zay Flowers"
+  },
+  "Terry McLaurin": {
+    "player_id": 31908,
+    "rank_ecr": "49",
+    "player_position_id": "WR",
+    "player_name": "Terry McLaurin"
+  },
+  "George Kittle": {
+    "player_id": 30259,
+    "rank_ecr": "50",
+    "player_position_id": "TE",
+    "player_name": "George Kittle"
+  },
+  "Trey McBride": {
+    "player_id": 34010,
+    "rank_ecr": "51",
+    "player_position_id": "TE",
+    "player_name": "Trey McBride"
+  },
+  "Lamar Jackson": {
+    "player_id": 31002,
+    "rank_ecr": "52",
+    "player_position_id": "QB",
+    "player_name": "Lamar Jackson"
+  },
+  "James Conner": {
+    "player_id": 30218,
+    "rank_ecr": "53",
+    "player_position_id": "RB",
+    "player_name": "James Conner"
+  },
+  "Tee Higgins": {
+    "player_id": 32703,
+    "rank_ecr": "54",
+    "player_position_id": "WR",
+    "player_name": "Tee Higgins"
+  },
+  "Chris Godwin": {
+    "player_id": 30197,
+    "rank_ecr": "55",
+    "player_position_id": "WR",
+    "player_name": "Chris Godwin"
+  },
+  "Calvin Ridley": {
+    "player_id": 30996,
+    "rank_ecr": "56",
+    "player_position_id": "WR",
+    "player_name": "Calvin Ridley"
+  },
+  "Amari Cooper": {
+    "player_id": 28392,
+    "rank_ecr": "57",
+    "player_position_id": "WR",
+    "player_name": "Amari Cooper"
+  },
+  "D'Andre Swift": {
+    "player_id": 32705,
+    "rank_ecr": "58",
+    "player_position_id": "RB",
+    "player_name": "D'Andre Swift"
+  },
+  "Raheem Mostert": {
+    "player_id": 28654,
+    "rank_ecr": "59",
+    "player_position_id": "RB",
+    "player_name": "Raheem Mostert"
+  },
+  "Tank Dell": {
+    "player_id": 40097,
+    "rank_ecr": "60",
+    "player_position_id": "WR",
+    "player_name": "Tank Dell"
+  },
+  "Rashee Rice": {
+    "player_id": 40084,
+    "rank_ecr": "61",
+    "player_position_id": "WR",
+    "player_name": "Rashee Rice"
+  },
+  "George Pickens": {
+    "player_id": 34007,
+    "rank_ecr": "62",
+    "player_position_id": "WR",
+    "player_name": "George Pickens"
+  },
+  "Diontae Johnson": {
+    "player_id": 31898,
+    "rank_ecr": "63",
+    "player_position_id": "WR",
+    "player_name": "Diontae Johnson"
+  },
+  "Patrick Mahomes": {
+    "player_id": 30123,
+    "rank_ecr": "64",
+    "player_position_id": "QB",
+    "player_name": "Patrick Mahomes"
+  },
+  "Joe Burrow": {
+    "player_id": 32671,
+    "rank_ecr": "65",
+    "player_position_id": "QB",
+    "player_name": "Joe Burrow"
+  },
+  "C.J. Stroud": {
+    "player_id": 40030,
+    "rank_ecr": "66",
+    "player_position_id": "QB",
+    "player_name": "C.J. Stroud"
+  },
+  "Jalen Hurts": {
+    "player_id": 32723,
+    "rank_ecr": "67",
+    "player_position_id": "QB",
+    "player_name": "Jalen Hurts"
+  },
+  "Dalton Kincaid": {
+    "player_id": 40048,
+    "rank_ecr": "68",
+    "player_position_id": "TE",
+    "player_name": "Dalton Kincaid"
+  },
+  "Tyjae Spears": {
+    "player_id": 40119,
+    "rank_ecr": "69",
+    "player_position_id": "RB",
+    "player_name": "Tyjae Spears"
+  },
+  "Austin Ekeler": {
+    "player_id": 30423,
+    "rank_ecr": "70",
+    "player_position_id": "RB",
+    "player_name": "Austin Ekeler"
+  },
+  "Rhamondre Stevenson": {
+    "player_id": 33508,
+    "rank_ecr": "71",
+    "player_position_id": "RB",
+    "player_name": "Rhamondre Stevenson"
+  },
+  "Tony Pollard": {
+    "player_id": 31960,
+    "rank_ecr": "72",
+    "player_position_id": "RB",
+    "player_name": "Tony Pollard"
+  },
+  "Javonte Williams": {
+    "player_id": 33423,
+    "rank_ecr": "73",
+    "player_position_id": "RB",
+    "player_name": "Javonte Williams"
+  },
+  "David Montgomery": {
+    "player_id": 31905,
+    "rank_ecr": "74",
+    "player_position_id": "RB",
+    "player_name": "David Montgomery"
+  },
+  "Kyle Pitts": {
+    "player_id": 33392,
+    "rank_ecr": "75",
+    "player_position_id": "TE",
+    "player_name": "Kyle Pitts"
+  },
+  "Jakobi Meyers": {
+    "player_id": 32231,
+    "rank_ecr": "76",
+    "player_position_id": "WR",
+    "player_name": "Jakobi Meyers"
+  },
+  "Courtland Sutton": {
+    "player_id": 31010,
+    "rank_ecr": "77",
+    "player_position_id": "WR",
+    "player_name": "Courtland Sutton"
+  },
+  "Jaylen Warren": {
+    "player_id": 34447,
+    "rank_ecr": "78",
+    "player_position_id": "RB",
+    "player_name": "Jaylen Warren"
+  },
+  "Chase Brown": {
+    "player_id": 40196,
+    "rank_ecr": "79",
+    "player_position_id": "RB",
+    "player_name": "Chase Brown"
+  },
+  "Zach Charbonnet": {
+    "player_id": 40075,
+    "rank_ecr": "80",
+    "player_position_id": "RB",
+    "player_name": "Zach Charbonnet"
+  },
+  "Jayden Reed": {
+    "player_id": 40063,
+    "rank_ecr": "81",
+    "player_position_id": "WR",
+    "player_name": "Jayden Reed"
+  },
+  "Jordan Addison": {
+    "player_id": 40042,
+    "rank_ecr": "82",
+    "player_position_id": "WR",
+    "player_name": "Jordan Addison"
+  },
+  "Jaxon Smith-Njigba": {
+    "player_id": 40041,
+    "rank_ecr": "83",
+    "player_position_id": "WR",
+    "player_name": "Jaxon Smith-Njigba"
+  },
+  "Brian Robinson Jr.": {
+    "player_id": 34054,
+    "rank_ecr": "84",
+    "player_position_id": "RB",
+    "player_name": "Brian Robinson Jr."
+  },
+  "Najee Harris": {
+    "player_id": 33412,
+    "rank_ecr": "85",
+    "player_position_id": "RB",
+    "player_name": "Najee Harris"
+  },
+  "Malik Nabers": {
+    "player_id": 40899,
+    "rank_ecr": "86",
+    "player_position_id": "WR",
+    "player_name": "Malik Nabers"
+  },
+  "Xavier Worthy": {
+    "player_id": 40877,
+    "rank_ecr": "87",
+    "player_position_id": "WR",
+    "player_name": "Xavier Worthy"
+  },
+  "Hollywood Brown": {
+    "player_id": 31857,
+    "rank_ecr": "88",
+    "player_position_id": "WR",
+    "player_name": "Hollywood Brown"
+  },
+  "Jake Ferguson": {
+    "player_id": 34085,
+    "rank_ecr": "89",
+    "player_position_id": "TE",
+    "player_name": "Jake Ferguson"
+  },
+  "Evan Engram": {
+    "player_id": 30136,
+    "rank_ecr": "90",
+    "player_position_id": "TE",
+    "player_name": "Evan Engram"
+  },
+  "Dak Prescott": {
+    "player_id": 29369,
+    "rank_ecr": "91",
+    "player_position_id": "QB",
+    "player_name": "Dak Prescott"
+  },
+  "Jordan Love": {
+    "player_id": 32696,
+    "rank_ecr": "92",
+    "player_position_id": "QB",
+    "player_name": "Jordan Love"
+  },
+  "Devin Singletary": {
+    "player_id": 31906,
+    "rank_ecr": "93",
+    "player_position_id": "RB",
+    "player_name": "Devin Singletary"
+  },
+  "Chuba Hubbard": {
+    "player_id": 33514,
+    "rank_ecr": "94",
+    "player_position_id": "RB",
+    "player_name": "Chuba Hubbard"
+  },
+  "Zack Moss": {
+    "player_id": 32756,
+    "rank_ecr": "95",
+    "player_position_id": "RB",
+    "player_name": "Zack Moss"
+  },
+  "Ezekiel Elliott": {
+    "player_id": 29238,
+    "rank_ecr": "96",
+    "player_position_id": "RB",
+    "player_name": "Ezekiel Elliott"
+  },
+  "DeAndre Hopkins": {
+    "player_id": 26650,
+    "rank_ecr": "97",
+    "player_position_id": "WR",
+    "player_name": "DeAndre Hopkins"
+  },
+  "Adam Thielen": {
+    "player_id": 27277,
+    "rank_ecr": "98",
+    "player_position_id": "WR",
+    "player_name": "Adam Thielen"
+  },
+  "Jerry Jeudy": {
+    "player_id": 32685,
+    "rank_ecr": "99",
+    "player_position_id": "WR",
+    "player_name": "Jerry Jeudy"
+  },
+  "Tyler Lockett": {
+    "player_id": 28457,
+    "rank_ecr": "100",
+    "player_position_id": "WR",
+    "player_name": "Tyler Lockett"
+  },
+  "Curtis Samuel": {
+    "player_id": 30153,
+    "rank_ecr": "101",
+    "player_position_id": "WR",
+    "player_name": "Curtis Samuel"
+  },
+  "Christian Watson": {
+    "player_id": 33989,
+    "rank_ecr": "102",
+    "player_position_id": "WR",
+    "player_name": "Christian Watson"
+  },
+  "Dallas Goedert": {
+    "player_id": 31019,
+    "rank_ecr": "103",
+    "player_position_id": "TE",
+    "player_name": "Dallas Goedert"
+  },
+  "Brock Bowers": {
+    "player_id": 40878,
+    "rank_ecr": "104",
+    "player_position_id": "TE",
+    "player_name": "Brock Bowers"
+  },
+  "Romeo Doubs": {
+    "player_id": 34088,
+    "rank_ecr": "105",
+    "player_position_id": "WR",
+    "player_name": "Romeo Doubs"
+  },
+  "Brandin Cooks": {
+    "player_id": 27548,
+    "rank_ecr": "106",
+    "player_position_id": "WR",
+    "player_name": "Brandin Cooks"
+  },
+  "Joshua Palmer": {
+    "player_id": 33465,
+    "rank_ecr": "107",
+    "player_position_id": "WR",
+    "player_name": "Joshua Palmer"
+  },
+  "Brock Purdy": {
+    "player_id": 34218,
+    "rank_ecr": "108",
+    "player_position_id": "QB",
+    "player_name": "Brock Purdy"
+  },
+  "Tua Tagovailoa": {
+    "player_id": 32675,
+    "rank_ecr": "109",
+    "player_position_id": "QB",
+    "player_name": "Tua Tagovailoa"
+  },
+  "Anthony Richardson": {
+    "player_id": 40040,
+    "rank_ecr": "110",
+    "player_position_id": "QB",
+    "player_name": "Anthony Richardson"
+  },
+  "Kyler Murray": {
+    "player_id": 31833,
+    "rank_ecr": "111",
+    "player_position_id": "QB",
+    "player_name": "Kyler Murray"
+  },
+  "Rome Odunze": {
+    "player_id": 40901,
+    "rank_ecr": "112",
+    "player_position_id": "WR",
+    "player_name": "Rome Odunze"
+  },
+  "Zamir White": {
+    "player_id": 34078,
+    "rank_ecr": "113",
+    "player_position_id": "RB",
+    "player_name": "Zamir White"
+  },
+  "T.J. Hockenson": {
+    "player_id": 31840,
+    "rank_ecr": "114",
+    "player_position_id": "TE",
+    "player_name": "T.J. Hockenson"
+  },
+  "Nick Chubb": {
+    "player_id": 31005,
+    "rank_ecr": "115",
+    "player_position_id": "RB",
+    "player_name": "Nick Chubb"
+  },
+  "Jerome Ford": {
+    "player_id": 34112,
+    "rank_ecr": "116",
+    "player_position_id": "RB",
+    "player_name": "Jerome Ford"
+  },
+  "Gus Edwards": {
+    "player_id": 31424,
+    "rank_ecr": "117",
+    "player_position_id": "RB",
+    "player_name": "Gus Edwards"
+  },
+  "Mike Williams": {
+    "player_id": 30120,
+    "rank_ecr": "118",
+    "player_position_id": "WR",
+    "player_name": "Mike Williams"
+  },
+  "Ladd McConkey": {
+    "player_id": 40908,
+    "rank_ecr": "119",
+    "player_position_id": "WR",
+    "player_name": "Ladd McConkey"
+  },
+  "Marvin Mims Jr.": {
+    "player_id": 40090,
+    "rank_ecr": "120",
+    "player_position_id": "WR",
+    "player_name": "Marvin Mims Jr."
+  },
+  "J.K. Dobbins": {
+    "player_id": 32725,
+    "rank_ecr": "121",
+    "player_position_id": "RB",
+    "player_name": "J.K. Dobbins"
+  },
+  "Tyler Allgeier": {
+    "player_id": 34107,
+    "rank_ecr": "122",
+    "player_position_id": "RB",
+    "player_name": "Tyler Allgeier"
+  },
+  "Antonio Gibson": {
+    "player_id": 32736,
+    "rank_ecr": "123",
+    "player_position_id": "RB",
+    "player_name": "Antonio Gibson"
+  },
+  "Ty Chandler": {
+    "player_id": 34125,
+    "rank_ecr": "124",
+    "player_position_id": "RB",
+    "player_name": "Ty Chandler"
+  },
+  "Khalil Herbert": {
+    "player_id": 33605,
+    "rank_ecr": "125",
+    "player_position_id": "RB",
+    "player_name": "Khalil Herbert"
+  },
+  "Keaton Mitchell": {
+    "player_id": 40641,
+    "rank_ecr": "126",
+    "player_position_id": "RB",
+    "player_name": "Keaton Mitchell"
+  },
+  "Trey Benson": {
+    "player_id": 40958,
+    "rank_ecr": "127",
+    "player_position_id": "RB",
+    "player_name": "Trey Benson"
+  },
+  "Blake Corum": {
+    "player_id": 40962,
+    "rank_ecr": "128",
+    "player_position_id": "RB",
+    "player_name": "Blake Corum"
+  },
+  "Jonathon Brooks": {
+    "player_id": 40926,
+    "rank_ecr": "129",
+    "player_position_id": "RB",
+    "player_name": "Jonathon Brooks"
+  },
+  "Khalil Shakir": {
+    "player_id": 34104,
+    "rank_ecr": "130",
+    "player_position_id": "WR",
+    "player_name": "Khalil Shakir"
+  },
+  "Keon Coleman": {
+    "player_id": 40911,
+    "rank_ecr": "131",
+    "player_position_id": "WR",
+    "player_name": "Keon Coleman"
+  },
+  "Brian Thomas Jr.": {
+    "player_id": 40883,
+    "rank_ecr": "132",
+    "player_position_id": "WR",
+    "player_name": "Brian Thomas Jr."
+  },
+  "Gabe Davis": {
+    "player_id": 32798,
+    "rank_ecr": "133",
+    "player_position_id": "WR",
+    "player_name": "Gabe Davis"
+  },
+  "Adonai Mitchell": {
+    "player_id": 40915,
+    "rank_ecr": "134",
+    "player_position_id": "WR",
+    "player_name": "Adonai Mitchell"
+  },
+  "Luke Musgrave": {
+    "player_id": 40074,
+    "rank_ecr": "135",
+    "player_position_id": "TE",
+    "player_name": "Luke Musgrave"
+  },
+  "Cole Kmet": {
+    "player_id": 32713,
+    "rank_ecr": "136",
+    "player_position_id": "TE",
+    "player_name": "Cole Kmet"
+  },
+  "David Njoku": {
+    "player_id": 30142,
+    "rank_ecr": "137",
+    "player_position_id": "TE",
+    "player_name": "David Njoku"
+  },
+  "Dalton Schultz": {
+    "player_id": 31107,
+    "rank_ecr": "138",
+    "player_position_id": "TE",
+    "player_name": "Dalton Schultz"
+  },
+  "Jahan Dotson": {
+    "player_id": 33971,
+    "rank_ecr": "139",
+    "player_position_id": "WR",
+    "player_name": "Jahan Dotson"
+  },
+  "DeMario Douglas": {
+    "player_id": 40222,
+    "rank_ecr": "140",
+    "player_position_id": "WR",
+    "player_name": "DeMario Douglas"
+  },
+  "Dontayvion Wicks": {
+    "player_id": 40201,
+    "rank_ecr": "141",
+    "player_position_id": "WR",
+    "player_name": "Dontayvion Wicks"
+  },
+  "Rashid Shaheed": {
+    "player_id": 34659,
+    "rank_ecr": "142",
+    "player_position_id": "WR",
+    "player_name": "Rashid Shaheed"
+  },
+  "Kendre Miller": {
+    "player_id": 40108,
+    "rank_ecr": "143",
+    "player_position_id": "RB",
+    "player_name": "Kendre Miller"
+  },
+  "Rico Dowdle": {
+    "player_id": 33100,
+    "rank_ecr": "144",
+    "player_position_id": "RB",
+    "player_name": "Rico Dowdle"
+  },
+  "Michael Wilson": {
+    "player_id": 40121,
+    "rank_ecr": "145",
+    "player_position_id": "WR",
+    "player_name": "Michael Wilson"
+  },
+  "Ricky Pearsall": {
+    "player_id": 40892,
+    "rank_ecr": "146",
+    "player_position_id": "WR",
+    "player_name": "Ricky Pearsall"
+  },
+  "Jameson Williams": {
+    "player_id": 33967,
+    "rank_ecr": "147",
+    "player_position_id": "WR",
+    "player_name": "Jameson Williams"
+  },
+  "Dameon Pierce": {
+    "player_id": 34063,
+    "rank_ecr": "148",
+    "player_position_id": "RB",
+    "player_name": "Dameon Pierce"
+  },
+  "Jaylen Wright": {
+    "player_id": 41010,
+    "rank_ecr": "149",
+    "player_position_id": "RB",
+    "player_name": "Jaylen Wright"
+  },
+  "MarShawn Lloyd": {
+    "player_id": 40971,
+    "rank_ecr": "150",
+    "player_position_id": "RB",
+    "player_name": "MarShawn Lloyd"
+  },
+  "Roschon Johnson": {
+    "player_id": 40162,
+    "rank_ecr": "151",
+    "player_position_id": "RB",
+    "player_name": "Roschon Johnson"
+  },
+  "Justin Herbert": {
+    "player_id": 32676,
+    "rank_ecr": "152",
+    "player_position_id": "QB",
+    "player_name": "Justin Herbert"
+  },
+  "Trevor Lawrence": {
+    "player_id": 33389,
+    "rank_ecr": "153",
+    "player_position_id": "QB",
+    "player_name": "Trevor Lawrence"
+  },
+  "Jared Goff": {
+    "player_id": 29235,
+    "rank_ecr": "154",
+    "player_position_id": "QB",
+    "player_name": "Jared Goff"
+  },
+  "Kirk Cousins": {
+    "player_id": 25812,
+    "rank_ecr": "155",
+    "player_position_id": "QB",
+    "player_name": "Kirk Cousins"
+  },
+  "Caleb Williams": {
+    "player_id": 40900,
+    "rank_ecr": "156",
+    "player_position_id": "QB",
+    "player_name": "Caleb Williams"
+  },
+  "Jaleel McLaughlin": {
+    "player_id": 40696,
+    "rank_ecr": "157",
+    "player_position_id": "RB",
+    "player_name": "Jaleel McLaughlin"
+  },
+  "D'Onta Foreman": {
+    "player_id": 30202,
+    "rank_ecr": "158",
+    "player_position_id": "RB",
+    "player_name": "D'Onta Foreman"
+  },
+  "Wan'Dale Robinson": {
+    "player_id": 33998,
+    "rank_ecr": "159",
+    "player_position_id": "WR",
+    "player_name": "Wan'Dale Robinson"
+  },
+  "Josh Downs": {
+    "player_id": 40126,
+    "rank_ecr": "160",
+    "player_position_id": "WR",
+    "player_name": "Josh Downs"
+  }
+}

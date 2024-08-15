@@ -1,0 +1,723 @@
+{
+  "Nick Folk": {
+    "player_id": 8432,
+    "name": "Nick Folk",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Matt Prater": {
+    "player_id": 8565,
+    "name": "Matt Prater",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 3,
+    "status": ""
+  },
+  "Graham Gano": {
+    "player_id": 9526,
+    "name": "Graham Gano",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Greg Zuerlein": {
+    "player_id": 25881,
+    "name": "Greg Zuerlein",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 15,
+    "status": ""
+  },
+  "Justin Tucker": {
+    "player_id": 26534,
+    "name": "Justin Tucker",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  "Dustin Hopkins": {
+    "player_id": 26800,
+    "name": "Dustin Hopkins",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 33,
+    "status": ""
+  },
+  "Chris Boswell": {
+    "player_id": 28188,
+    "name": "Chris Boswell",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 4,
+    "status": ""
+  },
+  "Cairo Santos": {
+    "player_id": 28227,
+    "name": "Cairo Santos",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 10,
+    "status": ""
+  },
+  "Jason Myers": {
+    "player_id": 28378,
+    "name": "Jason Myers",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 12,
+    "status": ""
+  },
+  "Wil Lutz": {
+    "player_id": 29754,
+    "name": "Wil Lutz",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 2,
+    "status": ""
+  },
+  "Ka'imi Fairbairn": {
+    "player_id": 29792,
+    "name": "Ka'imi Fairbairn",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 87,
+    "status": ""
+  },
+  "Jake Elliott": {
+    "player_id": 30266,
+    "name": "Jake Elliott",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 92,
+    "status": ""
+  },
+  "Harrison Butker": {
+    "player_id": 30346,
+    "name": "Harrison Butker",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  "Younghoe Koo": {
+    "player_id": 30426,
+    "name": "Younghoe Koo",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 82,
+    "status": ""
+  },
+  "Daniel Carlson": {
+    "player_id": 31137,
+    "name": "Daniel Carlson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 13,
+    "status": ""
+  },
+  "Jason Sanders": {
+    "player_id": 31199,
+    "name": "Jason Sanders",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 68,
+    "status": ""
+  },
+  "Michael Badgley": {
+    "player_id": 31366,
+    "name": "Michael Badgley",
+    "status": "IR",
+    "position_type": "K",
+    "eligible_positions": [
+      "K",
+      "IR"
+    ],
+    "percent_owned": 1
+  },
+  "Eddy Pineiro": {
+    "player_id": 31482,
+    "name": "Eddy Pineiro",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Greg Joseph": {
+    "player_id": 31538,
+    "name": "Greg Joseph",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Matt Gay": {
+    "player_id": 31977,
+    "name": "Matt Gay",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 17,
+    "status": ""
+  },
+  "Austin Seibert": {
+    "player_id": 32002,
+    "name": "Austin Seibert",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Matthew Wright": {
+    "player_id": 32174,
+    "name": "Matthew Wright",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Joey Slye": {
+    "player_id": 32384,
+    "name": "Joey Slye",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Chase McLaughlin": {
+    "player_id": 32417,
+    "name": "Chase McLaughlin",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 2,
+    "status": ""
+  },
+  "Tyler Bass": {
+    "player_id": 32858,
+    "name": "Tyler Bass",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 64,
+    "status": ""
+  },
+  "Evan McPherson": {
+    "player_id": 33537,
+    "name": "Evan McPherson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 84,
+    "status": ""
+  },
+  "Riley Patterson": {
+    "player_id": 33781,
+    "name": "Riley Patterson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Cade York": {
+    "player_id": 34080,
+    "name": "Cade York",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Cameron Dicker": {
+    "player_id": 34344,
+    "name": "Cameron Dicker",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 36,
+    "status": ""
+  },
+  "Jake Moody": {
+    "player_id": 40129,
+    "name": "Jake Moody",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 88,
+    "status": ""
+  },
+  "Chad Ryland": {
+    "player_id": 40159,
+    "name": "Chad Ryland",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Anders Carlson": {
+    "player_id": 40214,
+    "name": "Anders Carlson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Blake Grupe": {
+    "player_id": 40296,
+    "name": "Blake Grupe",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 3,
+    "status": ""
+  },
+  "Brandon Aubrey": {
+    "player_id": 40819,
+    "name": "Brandon Aubrey",
+    "status": "Q",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 99
+  },
+  "Jake Bates": {
+    "player_id": 40835,
+    "name": "Jake Bates",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 4,
+    "status": ""
+  },
+  "Cam Little": {
+    "player_id": 41062,
+    "name": "Cam Little",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 2,
+    "status": ""
+  },
+  "Joshua Karty": {
+    "player_id": 41081,
+    "name": "Joshua Karty",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Will Reichard": {
+    "player_id": 41093,
+    "name": "Will Reichard",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 2,
+    "status": ""
+  },
+  "Brayden Narveson": {
+    "player_id": 41235,
+    "name": "Brayden Narveson",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Spencer Shrader": {
+    "player_id": 41499,
+    "name": "Spencer Shrader",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Jude McAtamney": {
+    "player_id": 41686,
+    "name": "Jude McAtamney",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Alex Hale": {
+    "player_id": 41741,
+    "name": "Alex Hale",
+    "position_type": "K",
+    "eligible_positions": [
+      "K"
+    ],
+    "percent_owned": 0,
+    "status": ""
+  },
+  "Atlanta": {
+    "player_id": 100001,
+    "name": "Atlanta",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 2,
+    "status": ""
+  },
+  "Buffalo": {
+    "player_id": 100002,
+    "name": "Buffalo",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 82,
+    "status": ""
+  },
+  "Chicago": {
+    "player_id": 100003,
+    "name": "Chicago",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 62,
+    "status": ""
+  },
+  "Cincinnati": {
+    "player_id": 100004,
+    "name": "Cincinnati",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 36,
+    "status": ""
+  },
+  "Cleveland": {
+    "player_id": 100005,
+    "name": "Cleveland",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 96,
+    "status": ""
+  },
+  "Dallas": {
+    "player_id": 100006,
+    "name": "Dallas",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  "Denver": {
+    "player_id": 100007,
+    "name": "Denver",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 16,
+    "status": ""
+  },
+  "Detroit": {
+    "player_id": 100008,
+    "name": "Detroit",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 30,
+    "status": ""
+  },
+  "Green Bay": {
+    "player_id": 100009,
+    "name": "Green Bay",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 18,
+    "status": ""
+  },
+  "Tennessee": {
+    "player_id": 100010,
+    "name": "Tennessee",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Indianapolis": {
+    "player_id": 100011,
+    "name": "Indianapolis",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 9,
+    "status": ""
+  },
+  "Kansas City": {
+    "player_id": 100012,
+    "name": "Kansas City",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 95,
+    "status": ""
+  },
+  "Las Vegas": {
+    "player_id": 100013,
+    "name": "Las Vegas",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 11,
+    "status": ""
+  },
+  "Los Angeles": {
+    "player_id": 100024,
+    "name": "Los Angeles",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 4,
+    "status": ""
+  },
+  "Miami": {
+    "player_id": 100015,
+    "name": "Miami",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 84,
+    "status": ""
+  },
+  "Minnesota": {
+    "player_id": 100016,
+    "name": "Minnesota",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 49,
+    "status": ""
+  },
+  "New England": {
+    "player_id": 100017,
+    "name": "New England",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 6,
+    "status": ""
+  },
+  "New Orleans": {
+    "player_id": 100018,
+    "name": "New Orleans",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 49,
+    "status": ""
+  },
+  "New York": {
+    "player_id": 100020,
+    "name": "New York",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 97,
+    "status": ""
+  },
+  "Philadelphia": {
+    "player_id": 100021,
+    "name": "Philadelphia",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 76,
+    "status": ""
+  },
+  "Arizona": {
+    "player_id": 100022,
+    "name": "Arizona",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Pittsburgh": {
+    "player_id": 100023,
+    "name": "Pittsburgh",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 91,
+    "status": ""
+  },
+  "San Francisco": {
+    "player_id": 100025,
+    "name": "San Francisco",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 100,
+    "status": ""
+  },
+  "Seattle": {
+    "player_id": 100026,
+    "name": "Seattle",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 17,
+    "status": ""
+  },
+  "Tampa Bay": {
+    "player_id": 100027,
+    "name": "Tampa Bay",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 6,
+    "status": ""
+  },
+  "Washington": {
+    "player_id": 100028,
+    "name": "Washington",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Carolina": {
+    "player_id": 100029,
+    "name": "Carolina",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 1,
+    "status": ""
+  },
+  "Jacksonville": {
+    "player_id": 100030,
+    "name": "Jacksonville",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 7,
+    "status": ""
+  },
+  "Baltimore": {
+    "player_id": 100033,
+    "name": "Baltimore",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 99,
+    "status": ""
+  },
+  "Houston": {
+    "player_id": 100034,
+    "name": "Houston",
+    "position_type": "DT",
+    "eligible_positions": [
+      "DEF"
+    ],
+    "percent_owned": 58,
+    "status": ""
+  }
+}
